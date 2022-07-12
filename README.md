@@ -14,4 +14,7 @@ Project implementation on WebGL: https://simmer.io/@Navdhir77/virtual-simulation
 
 ![2](https://user-images.githubusercontent.com/88794920/178459198-456267d5-5ea4-40b1-9f35-f2b5529b67ca.jpg)
 
+![Picture1](https://user-images.githubusercontent.com/88794920/178460968-575bdee4-bee7-4a62-8f3d-d1cef4cedca1.jpg)
+
+
 
