@@ -12,5 +12,6 @@ Please click on link to the project: https://www.youtube.com/watch?v=ngX3ZO5exro
 
 Project implementation on WebGL: https://simmer.io/@Navdhir77/virtual-simulation-fms
 
+![2](https://user-images.githubusercontent.com/88794920/178459198-456267d5-5ea4-40b1-9f35-f2b5529b67ca.jpg)
 
-![1](https://user-images.githubusercontent.com/88794920/178458369-a1c2fca4-7f89-4878-8c8e-0d8980f499fe.jpg)
+
